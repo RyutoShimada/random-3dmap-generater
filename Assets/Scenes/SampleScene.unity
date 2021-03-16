@@ -341,5 +341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_obj: {fileID: 8616903425737250550, guid: 3484e50c56513e546bb4b7f17f9badcb, type: 3}
   m_x: 3
-  m_y: 3
+  m_y: 1
   m_z: 3
+  m_height: 3
+  m_width: 5
